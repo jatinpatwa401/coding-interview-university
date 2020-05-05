@@ -239,15 +239,15 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [X] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [X] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [X] How to Get a Job at the Big 4:
+    - [X] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+    - [X] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] Cracking the Facebook Coding Interview
     - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
@@ -393,13 +393,13 @@ It's user-friendly, available on all platforms and has a cloud sync system. It c
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
 
-### 3. Start doing coding interview questions while you're learning data structures and algorithms, 
+### 3. Start doing coding interview questions while you're learning data structures and algorithms,
 
-You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. Once you've learned a topic, 
-and feel comfortable with it, like linked lists, open one of the coding interview books and do a couple of questions regarding 
-linked lists. Then move on to the next learning topic. Then later, go back and do another linked list problem, 
-or recursion problem, or whatever. But keep doing problems while you're learning. You're not being hired for knowledge, 
-but how you apply the knowledge. There are several books and sites I recommend. 
+You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. Once you've learned a topic,
+and feel comfortable with it, like linked lists, open one of the coding interview books and do a couple of questions regarding
+linked lists. Then move on to the next learning topic. Then later, go back and do another linked list problem,
+or recursion problem, or whatever. But keep doing problems while you're learning. You're not being hired for knowledge,
+but how you apply the knowledge. There are several books and sites I recommend.
 See here for more: [Coding Question Practice](#coding-question-practice)
 
 ### 4. Review, review, review
@@ -410,7 +410,7 @@ Take a break from programming problems for a half hour and go through your flash
 
 ### 5. Focus
 
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music 
+There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
 without lyrics and you'll be able to focus pretty well.
 
 ## What you won't see covered
@@ -460,19 +460,19 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+- [X] **How computers process a program:**
+    - [X] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [X] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [X] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [X] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+    - [X] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [X] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
@@ -1262,7 +1262,7 @@ interview books, too, but I found this outstanding:
 
 No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard. Instead of a whiteboard, pick up a
 large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
-I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick. I use a pencil 
+I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick. I use a pencil
 and eraser.
 
 ![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
@@ -1304,7 +1304,7 @@ Coding Interview Question Videos:
 Challenge sites:
 - [LeetCode](https://leetcode.com/)
     - My favorite coding problem site. It's worth the subscription money for the 1-2 months you'll likely be preparing.
-    - [LeetCode solutions from FisherCoder](https://github.com/fishercoder1534/Leetcode) 
+    - [LeetCode solutions from FisherCoder](https://github.com/fishercoder1534/Leetcode)
     - See Nick White Videos above for short code-throughs
 - [HackerRank](https://www.hackerrank.com/)
 - [TopCoder](https://www.topcoder.com/)
@@ -1456,8 +1456,8 @@ You're never really done.
       that is just an intro. This a guidebook on program design and architecture.
 
 ## Additional Learning
-    
-    I added them to help you become a well-rounded software engineer, and to be aware of certain 
+
+    I added them to help you become a well-rounded software engineer, and to be aware of certain
     technologies and algorithms, so you'll have a bigger toolbox.
 
 - ### Compilers
